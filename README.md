@@ -1,5 +1,3 @@
-# Postgraduate Practicum Projects Management System
-
 ## About Me
 Hi everyone! I'm Teoh Yu Fei, a 4th year student from School of Computer Sciences, USM. I'm majoring in Software Engineering and is under the field of Information Systems Development.
 
